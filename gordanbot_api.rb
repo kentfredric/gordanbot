@@ -24,6 +24,7 @@ class GordanBot
       120 => "It's a liberal conspiracy to steal from the hard-working typist",
       121 => "Just because *you* can't write Perl doesn't mean we all can't.",
       122 => "Give up now, it's quicker than failing.",
+      123 => "DROP TABLE Humans",
     }
   end
 
